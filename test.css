@@ -1,0 +1,12 @@
+#wrapper {
+    display:flex;
+    flex-wrap:wrap;
+}
+.splitImg {
+    padding: 1px;
+    background-clip: content-box;
+    background-repeat: no-repeat;
+    border-color: black;
+    border-width: 10mm;
+    border-radius: 2mm;
+}
